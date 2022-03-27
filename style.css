@@ -167,12 +167,11 @@ input[type="text"] {
 @media (max-width: 700px) {
   .meals {
     grid-template-columns: repeat(2, 1fr);
+  } body {
+    padding: 0;
   }
 
-  /* .meal {
-    height: 200px;
-    width: 200px;
-  } */
+
 }
 @media (max-width: 500px) {
   input[type="text"] {
@@ -181,5 +180,8 @@ input[type="text"] {
 
   .meals {
     grid-template-columns: 1fr;
+  }
+   body {
+    padding: 0;
   }
 }
