@@ -15,4 +15,7 @@ and you will see the food items available or added on the page.here,we can Searc
 * Working with Flexboxes and media Queries
 * Fetching data from mealdb using fetch Api
 * Dom manipulation and event listeners
-* 
+
+ ## live preview
+ 
+ [Meal-finder](https://sudoofe123.github.io/Meal--finder/)
